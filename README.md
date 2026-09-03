@@ -25,7 +25,6 @@
 
 ### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp"/>
-<img src="https://img.shields.io/badge/SQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 ### 🌐 Frontend Development
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,bootstrap"/>
@@ -33,10 +32,7 @@
 ### ⚙️ Backend Development
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,maven"/>
 
-### ☁️ Databases & Tools
+### ☁️ Databases, AI & Tools
 <img src="https://skillicons.dev/icons?i=postgresql,git,github,vscode"/>
 
-### 🤖 AI Agents
-<img src="https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=anthropic&logoColor=4169e1"/>
-<img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=4169e1"/>
-<img src="https://img.shields.io/badge/Codex-0d1117?style=for-the-badge&logo=openai&logoColor=4169e1"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=footer"/>
